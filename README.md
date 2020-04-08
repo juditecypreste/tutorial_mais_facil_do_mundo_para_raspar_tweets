@@ -28,7 +28,7 @@ O comando que vamos utilizar fará com que a gente tenha todos os tweets escrito
     
 Em username vamos colocar a arroba do Eduardo Cunha: `@DepEduardoCunha`. Em file vamos colocar o nome do arquivo csv onde estarão os tweets coletados. Vou chamar de `todos_os_tuites_do_Eduardo_Cunha`. Dessa forma, nosso código ficará assim:
 
-      twint -u @DepEduardoCunha -o todos_os_tuites_do_Eduardo_Cunha.csv --csv
+    twint -u @DepEduardoCunha -o todos_os_tuites_do_Eduardo_Cunha.csv --csv
 
 E aí, a mágica acontece e você verá seu computador trabalhando para baixar os dados para você, como na imagem abaixo.
 
