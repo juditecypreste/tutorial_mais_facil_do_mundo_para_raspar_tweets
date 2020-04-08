@@ -4,7 +4,7 @@ Nesse tutorial, você vai aprender a raspar tuítes de um usuário da forma **ma
 
 E nosso usuário será o ex-deputado e conhecido nas redes como 'oráculo brasileiro' Eduardo Cunha.
 
-! [] (cunha.gif)
+![](cunha.gif)
 
 Duvida? Então para começar, é preciso que você tenha a linguagem de programação mais charmosa instalada no seu computador: Python! 
 
